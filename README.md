@@ -7,7 +7,7 @@ This repository involves:
   - **Software**: Involves Python codes for main control and user interface. 
   -
 
-For suggestions and questions, please e-mail to **guraygurkan@istanbul.edu.tr***
+For suggestions and questions, please e-mail to ***guraygurkan@istanbul.edu.tr***
 
 Cheers!
 
