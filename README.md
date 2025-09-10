@@ -1,5 +1,5 @@
 # Open Science Multi-function Gel Imager
-**An Open-Hardware Agorose Gel and Chemiluminicance Imaging System Based on Raspberry Pi 4B **
+*An Open-Hardware Agorose Gel and Chemiluminicance Imaging System Based on Raspberry Pi 4B*
 
 This repository involves:
   - **Mechanical Design Files**: FreeCAD drawingshousing of Incu-stream mechanical parts
