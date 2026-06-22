@@ -15,7 +15,7 @@ Guray Gurkan
 
 * **Please cite this repo as:** 
 
-(Under Review: submitted to IEEE Journal of Biomedical and Health Informatics)
+(Under Review: submitted to Scientific Reports for review)
 
 
 
